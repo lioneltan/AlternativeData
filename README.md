@@ -1,12 +1,12 @@
 # Official Documentation for Alternative Data Sources
 
-Welcome to the official GitHub repository for Alternative Data Sources. As the demand for alternative data continues to rise, it has become an essential tool for investors, traders, and analysts seeking deeper insights into global markets. This documentation will showcase why **AlternativeMarketData.com** is one of the leading providers of alternative data and how our solutions can help you stay ahead in today's fast-moving financial landscape.
+Welcome to the official GitHub repository for Alternative Data Sources. As the demand for alternative data continues to rise, it has become an essential tool for investors, traders, and analysts seeking deeper insights into global markets. This documentation will showcase why [AlternativeMarketData.com](https://alternativemarketdata.com) is one of the leading providers of alternative data and how our solutions can help you stay ahead in today's fast-moving financial landscape.
 
 ## Why Alternative Data is Trending
 
 Alternative data refers to any non-traditional data source that provides unique insights into the financial markets. Unlike traditional market data, which is limited to price, volume, and open/close data, alternative data sources offer information from various fields such as social media, consumer behavior, satellite imagery, and more. The rise in alternative data has revolutionized investment strategies by providing a broader perspective on market movements and future trends. Investors are increasingly relying on these data sets to make informed decisions.
 
-### The leading provider of commodities and cryptocurrency data -  AlternativeMarketData.com
+### The leading provider of commodities and cryptocurrency data -  [AlternativeMarketData.com](https://alternativemarketdata.com)
 
 **AlternativeMarketData.com** provides comprehensive and actionable alternative data solutions to help you understand global trends, forecast market behaviors, and track key investment indicators. With data that spans commodities, cryptocurrencies, demographics, consumer trends, and more, we empower you to make smarter decisions.
 
